@@ -1,0 +1,45 @@
+[{  "studentId": 1, 
+    "firstName": "Wilma", 
+    "lastName": "Flintstone",
+    "grades": [
+        {"score": 100},
+        {"score": 99},
+        {"score": 90}
+    ]
+},
+{
+    "studentId": 2, 
+    "firstName": "Betty", 
+    "lastName": "Rubble",
+    "grades": [
+        {"score": 80},
+        {"score": 85},
+        {"score": 80},
+        {"score": 80}
+    ]
+},
+{
+    "studentId": 3, 
+    "firstName": "Fred", 
+    "lastName": "Flintstone",
+    "grades": [
+        {"score": 70},
+        {"score": 75},
+        {"score": 70},
+        {"score": 70}
+    ]
+},
+{
+    "studentId": 4, 
+    "firstName": "Barney", 
+    "lastName": "Rubble",
+    "grades": [
+        {"score": 60},
+        {"score": 65},
+        {"score": 60},
+        {"score": 60}
+    ]
+}
+]
+
+
